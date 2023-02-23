@@ -1,5 +1,4 @@
-AbiDarwishYTList="https://raw.githubusercontent.com/abidarwish/helium/main/AbiDarwishYTList.txt"
-MSSPornBlockList="https://raw.githubusercontent.com/mssvpn/block/main/porn.txt"
-MSSBlockList="https://raw.githubusercontent.com/mssvpn/block/main/blocklist.txt"
-MSSYTBlockList="https://raw.githubusercontent.com/mssvpn/block/main/ytlist.txt"
+PRONO="https://raw.githubusercontent.com/mssvpn/block/main/porn.txt"
+BEFAULT="https://raw.githubusercontent.com/mssvpn/block/main/blocklist.txt"
+YOUTUBE="https://raw.githubusercontent.com/mssvpn/block/main/ytlist.txt"
 
