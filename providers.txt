@@ -1,4 +1,4 @@
-PRONO="https://raw.githubusercontent.com/mssvpn/block/main/porn.txt"
-BEFAULT="https://raw.githubusercontent.com/mssvpn/block/main/blocklist.txt"
-YOUTUBE="https://raw.githubusercontent.com/mssvpn/block/main/ytlist.txt"
+PRONO="https://raw.githubusercontent.com/anzclan/block/main/porn.txt"
+ADSLIST="https://raw.githubusercontent.com/anzclan/block/main/blocklist.txt"
+YOUTUBE="https://raw.githubusercontent.com/anzclan/block/main/ytlist.txt"
 
